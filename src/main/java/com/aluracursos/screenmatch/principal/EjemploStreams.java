@@ -1,2 +1,4 @@
-package com.aluracursos.screenmatch.principal;public class EjemploStreams {
+package com.aluracursos.screenmatch.principal;
+
+public class EjemploStreams {
 }
